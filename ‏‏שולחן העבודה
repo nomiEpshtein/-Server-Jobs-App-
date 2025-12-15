@@ -1,0 +1,4 @@
+JobID: 1, Name: matrix, Type: program, Salary: 1000
+JobID: 2, Name: maccabi, Type: secretariat, Salary: 2000
+JobID: 3, Name: shefer, Type: Kindergarten teacher, Salary: 3000
+JobID: 4, Name: porush, Type: teaching, Salary: 4000
